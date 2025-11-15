@@ -1,5 +1,5 @@
 ---
-permalink: /chapter 0/
+permalink: /chapter0/
 title: "第零章"
 author_profile: false
 redirect_from: 
@@ -8,4 +8,5 @@ redirect_from:
 ---
 
 {% include toc %}
+
 
