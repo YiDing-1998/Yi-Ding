@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "丁一"
   pronouns         : # example: "she/her"  
-  bio              : # "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "生存还是毁灭"
+  location         : "江苏"
+  employer         : # "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : # "none@example.org" 
 
   # Academic websites
   academia         : # URL
