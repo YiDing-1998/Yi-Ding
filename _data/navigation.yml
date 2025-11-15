@@ -30,4 +30,4 @@ main:
   #   url: /cv-json/
     
   - title: "章节"
-    url: /_chapters/chapter 0.md/
+    url: /chapter0.md/
