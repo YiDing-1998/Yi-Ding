@@ -1,5 +1,5 @@
 ---
-permalink: /markdown/
+permalink: /markdown2/
 title: "Markdown"
 author_profile: true
 redirect_from: 
