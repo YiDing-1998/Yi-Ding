@@ -4,7 +4,7 @@ title: "第零章"
 author_profile: true
 redirect_from: 
   - /md/
-  - /markdown.html
+  - /chapter0.html
 ---
 
 {% include toc %}
@@ -453,5 +453,6 @@ This allows you to denote <var>variables</var>.
 **Footnotes**
 
 The footnotes in the page will be returned following this line, return to the section on <a href="#footnotes">Markdown Footnotes</a>.
+
 
 
